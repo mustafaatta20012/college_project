@@ -730,7 +730,7 @@ header nav .form i {
   padding: 15px;
   text-align: center;
   border: 2px solid rgba(255, 250, 250, 0.553);
-  box-shadow: 6px 5px 10px 0 black;
+      box-shadow: 4px 3px 8px 0 #0000008f;
 }
 
 .werapper h1 {
